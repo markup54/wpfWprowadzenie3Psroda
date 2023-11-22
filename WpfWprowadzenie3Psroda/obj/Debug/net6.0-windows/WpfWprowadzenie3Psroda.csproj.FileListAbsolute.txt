@@ -19,3 +19,5 @@ C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\o
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WpfWprowadzenie3Psroda.pdb
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WpfWprowadzenie3Psroda.genruntimeconfig.cache
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\ref\WpfWprowadzenie3Psroda.dll
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowUniformGrid.g.cs
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowUniformGrid.baml
