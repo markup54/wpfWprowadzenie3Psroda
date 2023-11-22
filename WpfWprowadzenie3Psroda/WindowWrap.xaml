@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="WindowWrap" Height="450" Width="800">
     <WrapPanel Orientation="Vertical">
+        <!--
+        domyślnie horizontal
+        po zmianie rozmiaru okna .....
+        -->
         <Button>1</Button>
         <Button>2</Button>
         <Button>3</Button>
