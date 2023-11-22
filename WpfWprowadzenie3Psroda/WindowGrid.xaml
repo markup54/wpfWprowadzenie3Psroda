@@ -8,21 +8,27 @@
         Title="WindowGrid" Height="450" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+            <!--szerokość taka jak zawartość-->
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
-        <Button>1</Button>
+        <Button>12342443</Button>
         <!--
         domyślnie w kolumnie 0 wierszu 0
         -->
         <Button Grid.Column="2" Grid.Row="1">2</Button>
-        
+        <Button Grid.Row="2"
+                Grid.ColumnSpan="2" 
+                Margin="30">3</Button>
+        <Button Grid.Column="3"
+                Grid.RowSpan="3" 
+                Margin="20">4</Button>
     </Grid>
 </Window>

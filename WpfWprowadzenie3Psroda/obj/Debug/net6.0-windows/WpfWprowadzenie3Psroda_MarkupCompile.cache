@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\App.xaml
-31167286516
+451785338
 
-5-1179736154
+6-1829396598
 194-1617825143
-MainWindow.xaml;WindowGrid.xaml;WindowUniformGrid.xaml;
+MainWindow.xaml;WindowGrid.xaml;WindowUniformGrid.xaml;WindowWrap.xaml;
 
 False
 

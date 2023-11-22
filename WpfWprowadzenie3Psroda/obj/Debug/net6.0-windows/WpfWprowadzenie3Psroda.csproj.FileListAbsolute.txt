@@ -23,3 +23,5 @@ C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\o
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowUniformGrid.baml
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowGrid.g.cs
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowGrid.baml
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowWrap.g.cs
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowWrap.baml
