@@ -53,7 +53,7 @@ namespace WpfWprowadzenie3Psroda {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfWprowadzenie3Psroda;V1.0.0.0;component/windowwrap.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfWprowadzenie3Psroda;component/windowwrap.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowWrap.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

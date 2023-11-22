@@ -25,3 +25,9 @@ C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\o
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowGrid.baml
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowWrap.g.cs
 C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowWrap.baml
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowDoc.g.cs
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowPrzyklad.g.cs
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowDoc.baml
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\WindowPrzyklad.baml
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\nauczyciel\source\repos\WpfWprowadzenie3Psroda\WpfWprowadzenie3Psroda\obj\Debug\net6.0-windows\Window1.baml

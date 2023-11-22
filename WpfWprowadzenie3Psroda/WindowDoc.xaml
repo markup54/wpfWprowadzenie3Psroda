@@ -6,7 +6,22 @@
         xmlns:local="clr-namespace:WpfWprowadzenie3Psroda"
         mc:Ignorable="d"
         Title="WindowDoc" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <DockPanel>
+        <Button Padding="20">1</Button>
+        <Button DockPanel.Dock="Bottom">2</Button>
+        <Button>3</Button>
+        <Button DockPanel.Dock="Bottom">4</Button>
+        <Button>5</Button>
+        <Button>6</Button>
+        <Button DockPanel.Dock="Top">7</Button>
+        <Button DockPanel.Dock="Right">7</Button>
+        <Button>Ostatni</Button>
+        <Canvas HorizontalAlignment="Center">
+            <Rectangle
+                Width="100"
+                Height="200"
+                Fill="Coral"
+                HorizontalAlignment="Center"/>
+        </Canvas>
+    </DockPanel>
 </Window>
