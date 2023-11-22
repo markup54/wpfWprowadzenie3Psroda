@@ -5,8 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfWprowadzenie3Psroda"
         mc:Ignorable="d"
-        Title="WindowUniformGrid" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="Window UniformGrid" Height="450" Width="800">
+    <UniformGrid Columns="3">
+        <!--
+        układ siatki
+        -->
+        <Button Background="Bisque"
+                Foreground="BlueViolet"
+                Margin="20"
+                FontSize="20"
+                >1343555555</Button>
+        <Button>2</Button>
+        <Button>3</Button>
+        <Button>4</Button>
+        <Button>5</Button>
+        <Button>6</Button>
+        <Button>6</Button>
+        <Button>6</Button>
+        <Button>6</Button>
+        <Button>6</Button>
+        <UniformGrid Rows="2">
+            <Button>1</Button>
+            <Button>2</Button>
+            <Button>3</Button>
+            <Button>4</Button>
+            <Button>5</Button>
+            <Button>6</Button>
+        </UniformGrid>
+    </UniformGrid>
 </Window>
